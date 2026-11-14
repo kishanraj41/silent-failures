@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this corpus, please cite it as below."
+title: "silent-failures: a corpus of real silent data and ML pipeline failures"
+authors:
+  - family-names: "Raj VG"
+    given-names: "Kishan"
+    orcid: "https://orcid.org/0009-0007-6488-5855"
+    affiliation: "University of the Cumberlands"
+version: "0.1.0"
+date-released: "2026-11-14"
+license: CC-BY-4.0
+repository-code: "https://github.com/kishanraj41/silent-failures"
+keywords: [data quality, silent failures, data pipelines, machine learning, incidents, lineage]
